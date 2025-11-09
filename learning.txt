@@ -1,0 +1,3 @@
+What I've Learned So Far
+
+In this course, I've learned the fundamentals of Git and GitHub, including how to create repositories, make commits, and work with branches. I've gained an understanding of version control and how it helps track changes in projects. Learning to clone repositories locally and push changes to GitHub has been particularly valuable, as these are essential skills for collaborative software development and managing my own projects effectively.
